@@ -1,6 +1,6 @@
 {
-	"database-id": "169b6e632b7448529120599281265ac5",
-	"author": "",
+	"database-id": "18b5212e34ca808493e1c15a5042064c",
+	"author": "Jose Lopez",
 	"tracking": {
 		"google-analytics": {
 			"use-ga": true,
@@ -15,7 +15,7 @@
 	},
 	"google-search-console-html-tag": "",
 	"socials": {
-		"email": "",
+		"email": "mail@joselopez.de",
 		"github": "",
 		"googlescholar": "",
 		"semanticscholar": "",
@@ -35,7 +35,7 @@
 	"custom-domain": "",
 	"base-path": "",
 	"giscus": {
-		"data-repo": "nerdymomocat-templates/webtrotion-astro-notion-cms-website-blog",
+		"data-repo": "",
 		"data-repo-id": "R_kgDOK0FuUA",
 		"data-category": "Announcements",
 		"data-category-id": "DIC_kwDOK0FuUM4CbZ5A",
